@@ -1,2 +1,4 @@
 githup 文件提交
 aaaaaaaaaaaaaaaaaa
+
+gitignore操作
